@@ -1,0 +1,64 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Young+Serif&display=swap");
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.bg-grizzly-red {
+  background-color: #b21b20;
+}
+
+h2 {
+  font-family: Inter;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.redBtn {
+  border-radius: 59px;
+  background: #b21b20;
+  box-shadow: 0px 8px 12px 0px rgba(178, 27, 32, 0.24);
+  display: flex;
+  height: 60px;
+  padding: 16px 31px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.fadeOut {
+  webkit-animation: fadeOut 13s both;
+  animation: fadeOut 1.2s both;
+}
+
+@-webkit-keyframes fadeOut {
+  0% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translateY(0);
+  }
+}
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translateY(0);
+  }
+}
+
+/* .fadeOut {
+  background-color: red;
+} */
