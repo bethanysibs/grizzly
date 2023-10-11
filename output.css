@@ -20432,11 +20432,25 @@ body {
   background-color: #b21b20;
 }
 
-h2 {
+h1 {
   font-family: Inter;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+
+h2 {
   font-size: 54px;
   font-style: normal;
   font-weight: 800;
+  line-height: normal;
+}
+
+h3 {
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
   line-height: normal;
 }
 
@@ -20450,6 +20464,26 @@ h2 {
   justify-content: center;
   align-items: center;
   gap: 10px;
+}
+
+.orangeBtn {
+  border-radius: 59px;
+  background: var(
+    --Button,
+    linear-gradient(145deg, #ee3524 -81.34%, #f47b20 111.6%)
+  );
+  box-shadow: 0px 8px 12px 0px rgba(178, 27, 32, 0.24);
+  display: flex;
+  height: 60px;
+  padding: 16px 31px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.border-orange {
+  border-style: solid;
+  border-color: #f7941d;
 }
 
 .fadeOut {

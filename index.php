@@ -10,17 +10,17 @@
 </head>
 
 <body class="bg-black h-full text-white">
-    <div class="nav h-8 bg-grizzly-red px-4 py-1">
-        <nav class="flex justify-between items-center justify-center">
+    <div class="nav h-8 bg-grizzly-red px-4 py-1 sticky top-0">
+        <nav class="flex justify-between items-center justify-center ">
             <div>
                 Exclusive Invite Joe
             </div>
             <div>
-                Logo
+                <img class="h-6" src="img/logo.png">
             </div>
             <div class="flex space-x-2">
                 <!--emoji-->
-                <img src="img/timeIcon.png"> <span class="time"></span>
+                <img class="h-6" src="img/timeIcon.png"> <span class="time"></span>
             </div>
         </nav>
     </div>
@@ -37,7 +37,24 @@
                 <button class="redBtn text-white"> YES! START NOW </button>
             </div>
         </div>
-        <hr>
+
+        <div class="fade h-screen flex items-center justify-center">
+            <div>
+                <img class="h-screen" src="img/man.png">
+            </div>
+            <div class="space-y-4 flex flex-col items-center">
+                <h2 class="text-center">
+                    Congratulations!
+                </h2>
+                <h3 class="text-center">
+                    You’ve been accept to Grizzly Elite </h3>
+                <h1 class="text-center border-b-4 border-orange">
+                    March 1st
+                </h1>
+                <div><button class="orangeBtn text-white">START NOW </button></div>
+            </div>
+        </div>
+
         <div class="h-screen flex items-center justify-center">
             <div>
                 <h2 class="text-center p-4 h-1/2">
@@ -45,7 +62,7 @@
                 </h2>
             </div>
             <div>
-                <button class="redBtn text-white"> YES! START NOW </button>
+                <h2></h2>
             </div>
         </div>
     </div>
