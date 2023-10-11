@@ -10,13 +10,13 @@
 </head>
 
 <body class="bg-black h-full text-white">
-    <div class="nav h-8 bg-grizzly-red px-4 py-1 sticky top-0">
-        <nav class="flex justify-between items-center justify-center ">
+    <div class="nav h-auto bg-grizzly-red sticky top-0">
+        <nav class="flex justify-between items-center p-2 px-8 justify-center ">
             <div>
                 Exclusive Invite Joe
             </div>
             <div>
-                <img class="h-6" src="img/logo.png">
+                <img class="h-10" src="img/logo.png">
             </div>
             <div class="flex space-x-2">
                 <!--emoji-->
