@@ -20571,6 +20571,10 @@ h6 {
   top: -110px;
 }
 
+input {
+  border-bottom: 1px solid black;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;

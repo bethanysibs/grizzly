@@ -55,7 +55,7 @@
             </div>
         </div>
 
-        <div class="h-screen flex justify-center p-4">
+        <div class="h-auto flex justify-center p-4 pb-32">
             <div class="flex flex-col px-4">
                 <div class="mt-16 text-center">
                     <div class="text-center justify-center flex space-x-2">
@@ -122,7 +122,7 @@
             </div>
         </div>
         <!---->
-        <div class="h-screen flex justify-center p-4 px-32 relative space-x-8">
+        <div class="h-auto flex justify-center p-4 px-32 relative space-x-8 pb-32">
             <img class="h-60 absolute right-0 top-0" src="img/ripple.png">
             <div class="w-1/2 space-y-8 break-auto">
                 <h2>Outcomes</h2>
@@ -172,7 +172,7 @@
             <div class="text-center">
                 <h2><span>Your Grizzly Elite</span><span class="text-orange"> Training Includes</span></h2>
             </div>
-            <div class="flex justify-center">
+            <div class="flex justify-center pb-32">
                 <div class="w-1/2 flex flex-col z-20 ">
                     <img class="mr-16 w-full rounded-sm" src="img/mock.png">
                 </div>
@@ -370,7 +370,7 @@
         <!---->
         <div>
             <!--testimonials-->
-            <div class="px-4">
+            <div class="px-4 pb-32">
                 <div class="flex items-baseline space-x-4 mt-16 p-4">
                     <div class="btns">
                         <img class="h-32" src="img/leftBtn.svg">
@@ -418,6 +418,22 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="h-100 flex flex-col px-16 p-4 pt-16 pb-32 space-x-8 space-y-16 bg-white">
+        <div class="text-center">
+            <h2><span class="text-black">Let's Begin Your</span><span class="text-orange">
+                    Training</span></h2>
+        </div>
+        <div class="text-black flex items-center justify-center">
+            <form class="flex space-x-8">
+                <input type="text" placeholder="Name*" required>
+                <input type="email" placeholder="Email*" required>
+                <input type="submit" value="JOIN NOW" class="orangeBtn text-white">
+
+
+            </form>
+        </div>
+    </div>
 </body>
 
 <script src="script.js"></script>
