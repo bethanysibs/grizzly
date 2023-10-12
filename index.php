@@ -301,16 +301,16 @@
             </div>
 
             <div class="text-center">
-                <h2><span>Why Don’t Other Educational Experts <br> <span class="text-orange">Guarantee</span> Success?
+                <h2><span>Why Don’t Other Educational Experts <span class="text-orange">Guarantee</span> Success?
                         Well,
                         <span class="text-orange">We Can</span>. <br> And We Will.</span></h2>
             </div>
             <div class="flex justify-center items-center space-x-20">
                 <div class="w-1/2 space-y-8 break-auto">
-                    <div class="flex flex-col items-center space-x-2">
-                        <span class="text-20"> I (Joaquin), personally guarantee your success. </span>
+                    <div class="flex flex-col space-y-2">
+                        <span class="text-20">I (Joaquin), personally guarantee your success. </span>
                         <br>
-                        <span class="text-20"> Grizzly guarantees to 10 fold your goals, motivation, and productivity.
+                        <span class="text-20">Grizzly guarantees to 10 fold your goals, motivation, and productivity.
                             But talk is cheap. So, to back this up, I’m offering two separate guarantees. </span>
                     </div>
                 </div>
