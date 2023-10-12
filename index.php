@@ -219,7 +219,7 @@
                         Bonuses</span></h2>
             </div>
             <div class="flex flex-col justify-center items-center px-32 space-y-8">
-                <div class="box flex max-w-3xl p-8 rounded-md   space-x-8">
+                <div class="box flex items-center max-w-3xl px-8 py-4 rounded-md   space-x-8">
                     <div class="w-1/4">
                         <img class="h-16" src="img/habits.png">
                     </div>
@@ -234,7 +234,7 @@
                     </div>
 
                 </div>
-                <div class="box flex max-w-3xl p-8 rounded-md   space-x-8">
+                <div class="box flex items-center max-w-3xl px-8 py-4 rounded-md   space-x-8">
                     <div class="w-1/4">
                         <img class="h-16" src="img/habits.png">
                     </div>
@@ -249,7 +249,7 @@
                     </div>
 
                 </div>
-                <div class="box flex max-w-3xl p-8 rounded-md   space-x-8">
+                <div class="box flex items-center max-w-3xl px-8 py-4 rounded-md   space-x-8">
                     <div class="w-1/4">
                         <img class="h-16" src="img/habits.png">
                     </div>
@@ -263,7 +263,7 @@
                             fermentum.</span>
                     </div>
                 </div>
-                <div class="box flex max-w-3xl p-8 rounded-md   space-x-8">
+                <div class="box flex items-center max-w-3xl px-8 py-4 rounded-md   space-x-8">
                     <div class="w-1/4">
                         <img class="h-16" src="img/habits.png">
                     </div>
@@ -277,7 +277,7 @@
                             Consequat.</span>
                     </div>
                 </div>
-                <div class="box flex max-w-3xl p-8 rounded-md   space-x-8">
+                <div class="box flex items-center max-w-3xl px-8 py-4 rounded-md   space-x-8">
                     <div class="w-1/4">
                         <img class="h-16" src="img/habits.png">
                     </div>
