@@ -56,7 +56,7 @@
         </div>
 
         <div class="h-screen flex justify-center p-4">
-            <div class="flex flex-col px-8">
+            <div class="flex flex-col px-4">
                 <div class="mt-16 text-center">
                     <div class="text-center justify-center flex space-x-2">
 
@@ -75,9 +75,9 @@
                 </div>
                 <div class="flex items-baseline space-x-4 mt-16">
                     <div class="btns">
-                        <img class="h-24" src="img/leftBtn.svg">
+                        <img class="h-32" src="img/leftBtn.svg">
                     </div>
-                    <div class="carousel mt-4 flex space-x-2 items-center">
+                    <div class="carousel mt-4 flex space-x-2 items-center px-4">
 
                         <div class="grid grid-cols-12 gap-4">
                             <?php
@@ -88,10 +88,11 @@
                                     <div class="avatar w-48">
                                         <img class="h-10" src="img/avatar.png">
                                     </div>
-                                    <div class="content">
+                                    <div class="content flex flex-col">
                                         <h5>Wade Warren</h5>
-                                        <span class="small">@Wade Warren . 2 days ago</span>
-                                        <small>Sociis amet etiam elementum amet enim ac tristique a. Nullam tempus
+                                        <span class="small opacity-75 mb-4">@Wade Warren . 2 days ago</span>
+                                        <small>Sociis amet etiam elementum amet enim ac tristique a. Nullam
+                                            tempus
                                             adipiscing
                                             enim,
                                             mauris lacus tincidunt eget elit. Id ultrices.</small>
@@ -114,7 +115,7 @@
                         </div>
                     </div>
                     <div class="btns">
-                        <img class="h-24" src="img/rightBtn.svg">
+                        <img class="h-32" src="img/rightBtn.svg">
                     </div>
                 </div>
             </div>
