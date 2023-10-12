@@ -167,7 +167,7 @@
             </div>
         </div>
         <!---->
-        <div class="h-screen flex flex-col p-4 px-16 space-x-8 space-y-32">
+        <div class="h-100 flex flex-col p-4 px-16 space-x-8 space-y-16">
             <div class="text-center">
                 <h2><span>Your Grizzly Elite</span><span class="text-orange"> Training Includes</span></h2>
             </div>
@@ -212,6 +212,114 @@
                 </div>
             </div>
         </div>
+        <!---->
+        <div class="h-100 flex flex-col px-16 p-4 pt-16 pb-32 space-x-8 space-y-16 bg-white">
+            <div class="text-center">
+                <h2><span class="text-black">Counselor Exclusive</span><span class="text-orange">
+                        Bonuses</span></h2>
+            </div>
+            <div class="flex flex-col justify-center items-center px-32 space-y-8">
+                <div class="box flex max-w-3xl p-8 rounded-md   space-x-8">
+                    <div class="w-1/4">
+                        <img class="h-16" src="img/habits.png">
+                    </div>
+                    <div class="w-3/4">
+                        <h4 class="font-bold">
+                            <span class="text-orange">Ivy League</span><span class="text-black font-bold">
+                                Accountability</span>
+                        </h4>
+                        <span class="text-20 text-black">Quis duis velit augue cum nisi volutpat. Metus nunc rutrum
+                            adipiscing dui
+                            pulvinar rutrum massa egestas iaculis. Mauris mauris mattis cursus</span>
+                    </div>
+
+                </div>
+                <div class="box flex max-w-3xl p-8 rounded-md   space-x-8">
+                    <div class="w-1/4">
+                        <img class="h-16" src="img/habits.png">
+                    </div>
+                    <div class="w-3/4">
+                        <h4 class="font-bold">
+                            <span class="text-orange">10 Ivy League</span><span class="text-black font-bold">
+                                Full Common App</span>
+                        </h4>
+                        <span class="text-20 text-black">At semper dolor orci facilisis magna. Vulputate quis ut nec
+                            sapien a pulvinar blandit arcu. In pharetra feugiat senectus ipsum sit id amet
+                            fermentum.</span>
+                    </div>
+
+                </div>
+                <div class="box flex max-w-3xl p-8 rounded-md   space-x-8">
+                    <div class="w-1/4">
+                        <img class="h-16" src="img/habits.png">
+                    </div>
+                    <div class="w-3/4">
+                        <h4 class="font-bold">
+                            <span class="text-orange">IB/AP Math </span><span class="text-black font-bold">
+                                + Physics Training + Question Bank</span>
+                        </h4>
+                        <span class="text-20 text-black">At semper dolor orci facilisis magna. Vulputate quis ut nec
+                            sapien a pulvinar blandit arcu. In pharetra feugiat senectus ipsum sit id amet
+                            fermentum.</span>
+                    </div>
+                </div>
+                <div class="box flex max-w-3xl p-8 rounded-md   space-x-8">
+                    <div class="w-1/4">
+                        <img class="h-16" src="img/habits.png">
+                    </div>
+                    <div class="w-3/4">
+                        <h4 class="font-bold">
+                            <span class="text-orange">Delegation</span><span class="text-black font-bold">
+                                Package</span>
+                        </h4>
+                        <span class="text-20 text-black">Posuere nascetur ullamcorper eu eget sed at elit. Imperdiet
+                            dictum velit in ullamcorper. Congue velit a eu dolor nullam eu scelerisque aliquet.
+                            Consequat.</span>
+                    </div>
+                </div>
+                <div class="box flex max-w-3xl p-8 rounded-md   space-x-8">
+                    <div class="w-1/4">
+                        <img class="h-16" src="img/habits.png">
+                    </div>
+                    <div class="w-3/4">
+                        <h4 class="font-bold">
+                            <span class="text-orange">Tabula +</span><span class="text-black font-bold">
+                                Achievement Software</span>
+                        </h4>
+                        <span class="text-20 text-black">Lobortis a egestas proin elit orci maecenas. Tellus auctor quam
+                            sed facilisi imperdiet et cras neque. Eu diam sed duis lacus. Bibendum iaculis
+                            commodo.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!---->
+
+        <div class="h-100 flex flex-col p-4 px-16 space-x-8 space-y-16 items-center relative">
+            <div class="sealLogo">
+                <img class="w-48" src="img/sealLogo.png">
+            </div>
+
+            <div class="text-center">
+                <h2><span>Why Don’t Other Educational Experts <br> <span class="text-orange">Guarantee</span> Success?
+                        Well,
+                        <span class="text-orange">We Can</span>. <br> And We Will.</span></h2>
+            </div>
+            <div class="flex justify-center items-center space-x-20">
+                <div class="w-1/2 space-y-8 break-auto">
+                    <div class="flex flex-col items-center space-x-2">
+                        <span class="text-20"> I (Joaquin), personally guarantee your success. </span>
+                        <br>
+                        <span class="text-20"> Grizzly guarantees to 10 fold your goals, motivation, and productivity.
+                            But talk is cheap. So, to back this up, I’m offering two separate guarantees. </span>
+                    </div>
+                </div>
+                <div class="w-1/2 flex flex-col z-20 ">
+                    <img class="mr-16 w-full rounded-sm" src="img/chair.png">
+                </div>
+            </div>
+        </div>
+        <!---->
 </body>
 
 <script src="script.js"></script>
