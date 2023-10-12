@@ -20526,6 +20526,10 @@ h6 {
   gap: 10px;
 }
 
+.bg-orange {
+  background-color: #f47b20;
+}
+
 .border-orange {
   border-style: solid;
   border-color: #f7941d;

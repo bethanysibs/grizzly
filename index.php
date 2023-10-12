@@ -51,7 +51,7 @@
                 <h1 class="text-center border-b-4 border-orange">
                     March 1st
                 </h1>
-                <div><button class="orangeBtn text-white">START NOW </button></div>
+                <div><button class="orangeBtn text-white font-bold">START NOW </button></div>
             </div>
         </div>
 
@@ -156,7 +156,7 @@
                 <div class="flex">
                     <img class="h-16" src="img/quote.svg">
                     <div class="flex flex-col items-baseline space-y-4">
-                        <span class="text-20 opacity-50 mt-8">Aliquam quis tincidunt lectus, vitae aliquam metus. Donec
+                        <span class="text-20 opacity-75 mt-8">Aliquam quis tincidunt lectus, vitae aliquam metus. Donec
                             congue
                             euismod orci non varius. Ut convallis a mi in suscipit</span>
                         <img class="h-1 items-end" src="img/lines.svg">
@@ -318,6 +318,53 @@
                     <img class="mr-16 w-full rounded-sm" src="img/chair.png">
                 </div>
             </div>
+            <div class="flex space-x-8">
+                <div>
+                    <img class="bg-orange rounded-lg max-w-sm" src="img/check.png">
+                </div>
+                <div class="flex flex-col">
+                    <h3 class="font-bold">30-Day Club a Grizzly Guarantee</h3>
+                    <br>
+                    <span class="text-20 opacity-75">
+                        If after the first 30 days of training you don’t see at least a 5x return on your investment (if
+                        your productivity has not increased by AT LEAST 500%) you can ‘club the grizzly’—i.e., withdraw
+                        from the training, return your Grizzly Elite training books, and get 100% of your money back.
+                    </span>
+                    <br>
+                    <span class="text-20 opacity-75">
+                        I’m making such a bold guarantee because I’m extremely confident that what Grizzly Elite has to
+                        offer is the real deal, and that you’ll wholeheartedly agree
+                    </span>
+                </div>
+            </div>
+            <div class="flex space-x-8">
+                <div>
+                    <img class="bg-orange rounded-lg max-w-sm" src="img/check.png">
+                </div>
+                <div class="flex flex-col">
+                    <h3 class="font-bold">6-Month 10X Grizzly Domination Guarantee</h3>
+                    <br>
+                    <span class="text-20 opacity-75">
+                        Based on our track record and utterly unfair resources, we’re so confident of your success that
+                        if you are, in the worst case, not on track to achieve 10x your wow factor (with less stress)
+                        and are not getting straight 4.0 grades across the board after six months of working with us
+                        (given that you’ve applied each step/strategy and followed all the content), we’ll give you free
+                        1:1 training until you’re on track to achieve your goals (we benefit by getting a spectacular
+                        turnaround new Grizzly success story).
+                    </span>
+                    <br>
+                    <span class="text-20 opacity-75">
+                        No questions asked.
+                    </span>
+                    <br>
+                    <span class="text-20 opacity-75">
+                        We challenge you to test this guarantee. Take advantage of our insane offer! When you do, you’ll
+                        realize that it’s impossible to avoid success when applying our strategies.
+                    </span>
+                </div>
+
+            </div>
+            <div><button class="orangeBtn text-white font-bold">Apply Now</button></div>
         </div>
         <!---->
 </body>
