@@ -217,6 +217,10 @@ h6 {
   bottom: 50%;
 }
 
+.curve {
+  top: -100px;
+}
+
 input.inputField,
 input {
   border-bottom: 1px solid black;

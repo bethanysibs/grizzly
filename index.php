@@ -756,7 +756,7 @@
 
         </div>
     </div>
-    <div class="h-100 flex flex-col p-4 px-16 pt-16 pb-16 space-x-8 space-y-16 items-center bg-white text-black">
+    <div class="h-100 flex flex-col p-4 px-16 pt-16 pb-32 space-x-8 space-y-16 items-center bg-white text-black">
         <div class="text-center p-32">
             <h2><span>30 Day Access To The OFA Challenge </span> <span class="text-orange">Facebook Group</span></h2>
         </div>
@@ -841,6 +841,11 @@
 
             </div>
         </div>
+    </div>
+    <!--footer-->
+    <div class="h-100 flex flex-col relative">
+        <img class="absolute curve w-full" src="img/curve.png">
+        <img src="img/footer.png">
     </div>
 
 
