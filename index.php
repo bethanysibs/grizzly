@@ -47,7 +47,7 @@
                     Congratulations!
                 </h2>
                 <h3 class="text-center">
-                    You’ve been accept to Grizzly Elite </h3>
+                    You’ve been accepted to Grizzly Elite </h3>
                 <h1 class="text-center border-b-4 border-orange">
                     March 1st
                 </h1>
