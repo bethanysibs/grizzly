@@ -524,9 +524,7 @@
     </div>
     <!---->
 
-    <div class="h-100 flex flex-col p-4 px-16 space-x-8 space-y-16 items-center">
-
-
+    <div class="h-100 flex flex-col p-4 px-16 pt-16 pb-32 space-x-8 space-y-16 items-center">
         <div class="text-center p-16">
             <h2><span>Join an Elite </span> <span class="text-orange">Community</span><span>of Winners</span></h2>
         </div>
@@ -588,9 +586,6 @@
                             fact, i'd go as far as to say that every session with him is worth more than the price of
                             the entire course itself! The way I work now, school has basically become a side
                             project.""</small>
-
-
-
                         <!---->
                     </div>
                 </div>
