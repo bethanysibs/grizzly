@@ -54,6 +54,13 @@ h6 {
   line-height: 24px; /* 24px */
 }
 
+.text-26 {
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
 .text-20 {
   font-size: 20px;
   font-style: normal;
@@ -120,6 +127,23 @@ h6 {
   box-shadow: 0px 0px 1px rgba(231, 236, 239, 0.5);
 }
 
+.dashedBox {
+  @apply box border-dashed;
+  border-color: #ee3524;
+}
+
+.solidBox {
+  @apply box border-solid;
+  border-color: #ee3524;
+  margin-bottom: -15rem;
+}
+
+.secondBox {
+  position: absolute;
+  top: -25px;
+  background-color: white;
+}
+
 .fadeOut {
   webkit-animation: fadeOut 13s both;
   animation: fadeOut 1.2s both;
@@ -155,9 +179,20 @@ h6 {
 /**sealLogo**/
 .sealLogo {
   position: absolute;
-  top: -110px;
+  top: -130px;
 }
 
-input {
+.pentagon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.pick {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+input.inputField {
   border-bottom: 1px solid black;
 }

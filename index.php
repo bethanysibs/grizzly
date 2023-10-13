@@ -214,7 +214,9 @@
             </div>
         </div>
         <!---->
-        <div class="h-100 flex flex-col px-16 p-4 pt-16 pb-32 space-x-8 space-y-16 bg-white">
+        <div class="h-100 flex flex-col px-16 p-4 pt-16 pb-32 space-x-8 space-y-16 bg-white relative">
+            <img class="pick h-auto" src="img/pick.svg">
+            <img class="pentagon h-auto" src="img/pentagon.svg">
             <div class="text-center">
                 <h2><span class="text-black">Counselor Exclusive</span><span class="text-orange">
                         Bonuses</span></h2>
@@ -298,10 +300,10 @@
 
         <div class="h-100 flex flex-col p-4 px-16 space-x-8 space-y-16 items-center relative">
             <div class="sealLogo">
-                <img class="w-48" src="img/sealLogo.png">
+                <img class="w-56" src="img/sealLogo.png">
             </div>
 
-            <div class="text-center">
+            <div class="text-center p-16">
                 <h2><span>Why Don’t Other Educational Experts <span class="text-orange">Guarantee</span> Success?
                         Well,
                         <span class="text-orange">We Can</span>. <br> And We Will.</span></h2>
@@ -419,19 +421,43 @@
             </div>
         </div>
     </div>
-    <div class="h-100 flex flex-col px-16 p-4 pt-16 pb-32 space-x-8 space-y-16 bg-white">
+    <div class="h-100 flex flex-col px-16 p-4 pt-16 pb-32 space-x-8 space-y-16 bg-white relative text-black">
+        <img class="pick h-auto" src="img/pick.svg">
         <div class="text-center">
             <h2><span class="text-black">Let's Begin Your</span><span class="text-orange">
                     Training</span></h2>
         </div>
         <div class="text-black flex items-center justify-center">
             <form class="flex space-x-8">
-                <input type="text" placeholder="Name*" required>
-                <input type="email" placeholder="Email*" required>
+                <input class="inputField p-1" type="text" placeholder="Name*" required>
+                <input class="inputField p-1" type="email" placeholder="Email*" required>
                 <input type="submit" value="JOIN NOW" class="orangeBtn text-white">
-
-
             </form>
+        </div>
+        <div class="flex space-x-16 items-center justify-center py-16">
+            <div class="solidBox flex flex-col p-6 border-1 rounded-lg max-w-xs text-center items-center">
+                <span class="text-26 font-bold">TRY FOR 30 DAYS</span>
+                <h6 class="px-8 py-4">And receive LUDICROUS LEADERSHIP as an additional gift</h6>
+                <h3 class="px-2 py-2 font-bold"><span class="text-orange pr-2">$5</span><span>Activation</span></h3>
+                <h6 class="px-8 px-2">No commitment. Cancel anytime during 30 day open access period </h6>
+                <div class="py-6"><button class="orangeBtn text-white font-bold">30 Day Free </button></div>
+            </div>
+
+            <div class="dashedBox flex flex-col p-6 border-1 rounded-lg max-w-xs text-center items-center relative">
+                <span class="text-26 font-bold p-2 px-6 border-1 solidBox secondBox">JOIN TODAY</span>
+                <h6 class="px-8 py-4">And receive LUDICROUS LEADERSHIP as an additional gift</h6>
+                <h3 class="px-2 py-4 font-bold"><span class="text-orange pr-2">$495</span><span>Today</span></h3>
+                <h6 class="px-8 py-2">Then 3 additional monthly installments of $495 </h6>
+                <div class="py-6"><button class="orangeBtn text-white font-bold">Start Now </button></div>
+            </div>
+
+            <div class="solidBox flex flex-col p-6 border-1 rounded-lg max-w-xs text-center items-center">
+                <span class="text-26 font-bold">JOIN TODAY</span>
+                <h6 class="px-8 py-4">And receive LUDICROUS LEADERSHIP as an additional gift</h6>
+                <h3 class="px-2 py-4 font-bold"><span class="text-orange pr-2">$495</span><span>Today</span></h3>
+                <h6 class="px-8 py-2">Then 3 additional monthly installments of $495 </h6>
+                <div class="py-6"><button class="orangeBtn text-white font-bold">Get Access </button></div>
+            </div>
         </div>
     </div>
 </body>
