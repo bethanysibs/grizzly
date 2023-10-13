@@ -524,7 +524,7 @@
     </div>
     <!---->
 
-    <div class="h-100 flex flex-col p-4 px-16 pt-16 pb-32 space-x-8 space-y-16 items-center">
+    <div class="h-100 flex flex-col p-4 px-16 pt-16 pb-16 space-x-8 space-y-16 items-center">
         <div class="text-center p-16">
             <h2><span>Join an Elite </span> <span class="text-orange">Community</span><span>of Winners</span></h2>
         </div>
@@ -624,6 +624,138 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="h-100 flex flex-col p-4 pb-32 space-x-8 space-y-16 items-center text-white">
+        <div class="text-center p-16 flex flex-col">
+            <span class="text-26">Gloria Mariwa</span>
+            <span class="text-16 opacity-50">Grade 11 Student</span>
+            <br>
+            <span class="text-16">
+                "Joaquin really helped me a lot! My goal was to succeed in the WSC academic competition. In my first
+                year of the competition, I left the regional round ashamed of barely qualifying for the global rounds.
+                This was before I found Joaquin's [productivity] training and resources.
+                <br><br>
+                The next year I took part in the competition once again and, using Joaquin's resources and having his
+                support, I managed to get 10 gold medals [10X results]: holding the record of most medals received
+                during the competition in my school. I remember leaving the competition with tons of pride after the
+                positive change I made in a year's time with help from Joaquin! Till today I'm proud of my achievement
+                and I thank Joaquin for all his help!"
+            </span>
+
+        </div>
+        <!---->
+
+        <div class="h-100 flex flex-col p-4 px-16 space-x-8 space-y-16 items-center">
+
+            <div class="text-center p-16">
+                <h2><span>What other</span> <span class="text-orange">Counselors</span><span> Say about this
+                        Opportunity</span></h2>
+            </div>
+            <div class="flex justify-center items-center space-x-20">
+                <div class="w-1/2 flex flex-col z-20 ">
+                    <img class="mr-16 w-full rounded-sm" src="img/bibi.png">
+                </div>
+                <div class="w-1/2 space-y-8 break-auto">
+                    <div class="flex flex-col space-y-2">
+                        <h3 class="font-bold">Meet Bibi</h3>
+                        <span class="text-16">At my request, Joaquin Revello, hosted a virtual presentation for my
+                            current students in January of 2022. He is a wonderful results-oriented public speaker and
+                            hearing his tips and personal experiences, which eventually led to his success in gaining
+                            admission to his top choice university, were eye-opening for my students. These included
+                            novel frameworks, strategies, and concepts.</span>
+                        <br>
+                        <span class="text-16">In any given year, I work with a handful of students targeting elite
+                            institutions, including Ivy League universities. While ambitious, I still felt some were not
+                            fully living up to their potential. After Joaquin’s presentation, the change in the mindset
+                            and attitude of the students who attended his event was evident in their progress. The
+                            feedback I received from parents and students has been extraordinarily positive. The
+                            difference he has made is evidence of his genuine interest in the power of productivity and
+                            how modifications in attitude and work ethic can change lives. I wholeheartedly endorse
+                            Joaquin, knowing the value that he brings to the young people he sets out to inspire.
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!--testimonials-->
+        <div class="flex items-baseline space-x-4 mt-16">
+            <div class="btns">
+                <img class="h-32" src="img/leftBtn.svg">
+            </div>
+            <div class="carousel mt-4 flex space-x-2 items-center px-4">
+
+                <div class="grid grid-cols-12 gap-4">
+                    <?php
+                           for ($i=1; $i<4; $i++){ ?>
+
+                    <div class="col-span-4">
+                        <div class="flex space-x-2">
+                            <div class="avatar w-48">
+                                <img class="h-14" src="img/avatar.png">
+                            </div>
+                            <div class="content flex flex-col">
+                                <h5>Wade Warren</h5>
+                                <span class="small opacity-75 mb-4">@Wade Warren . 2 days ago</span>
+                                <small>Sociis amet etiam elementum amet enim ac tristique a. Nullam
+                                    tempus
+                                    adipiscing
+                                    enim,
+                                    mauris lacus tincidunt eget elit. Id ultrices.</small>
+                                <div>
+                                    <div class="text-center flex space-x-2">
+                                        <img class="h-4" src="img/starSmall.png">
+                                        <img class="h-4" src="img/starSmall.png">
+                                        <img class="h-4" src="img/starSmall.png">
+                                        <img class="h-4" src="img/starSmall.png">
+                                        <img class="h-4" src="img/starSmallHalf.png">
+                                    </div>
+                                </div>
+
+                                <!---->
+                            </div>
+                        </div>
+                    </div>
+                    <?php  }
+                            ?>
+                </div>
+            </div>
+            <div class="btns">
+                <img class="h-32" src="img/rightBtn.svg">
+            </div>
+        </div>
+
+    </div>
+    <div class="h-100 flex flex-col p-4 px-16 pt-16 pb-16 space-x-8 space-y-16 items-center">
+        <div class="text-center p-16">
+            <h2><span>Join an Elite </span> <span class="text-orange">Community</span><span>of Winners</span></h2>
+        </div>
+        <div class="flex justify-center items-center space-x-20">
+            <div class="w-1/2 flex flex-col z-20 relative">
+                <img class="mr-16 w-full rounded-sm " src="img/chinese.png">
+                <img class="mr-16 h-24 rounded-sm absolute playButton" src="img/playRed.svg">
+            </div>
+            <div class="w-1/2 space-y-8 break-auto">
+                <div class="flex space-x-2">
+                    <div class="content flex flex-col space-y-2 items-baseline">
+                        <img class=" h-10 rounded-sm " src="img/quote.svg">
+                        <h4 class="font-bold">There’s now a fire in them. Their eyes are sparkling.</h4>
+
+                        <small>My name is Mye, and I am a mother of four. My kids are now happy. Like truly joyful. As
+                            high schoolers! You don’t see that anywhere. They just transformed into different human
+                            beings in just a few weeks. My husband even noticed the change and wondered what had
+                            happened to them. The Grizzly Elite program has, undoubtedly, been the best decision we’ve
+                            ever made. I now go to sleep in peace as I know they are in good hands.</small>
+
+
+
+                        <!---->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
 </body>
 
 <script src=" script.js"></script>
