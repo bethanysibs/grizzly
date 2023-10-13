@@ -460,6 +460,10 @@
             </div>
         </div>
     </div>
+    <div class="flex flex-col bg-white text-black">
+        <div class="box">asdf</div>
+
+    </div>
 </body>
 
 <script src="script.js"></script>
