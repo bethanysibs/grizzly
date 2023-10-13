@@ -439,8 +439,8 @@
                 <span class="text-26 font-bold">TRY FOR 30 DAYS</span>
                 <h6 class="px-8 py-4">And receive LUDICROUS LEADERSHIP as an additional gift</h6>
                 <h3 class="px-2 py-2 font-bold"><span class="text-orange pr-2">$5</span><span>Activation</span></h3>
-                <h6 class="px-8 px-2">No commitment. Cancel anytime during 30 day open access period </h6>
-                <div class="py-6"><button class="orangeBtn text-white font-bold">30 Day Free </button></div>
+                <h6 class="px-8 py-2">No commitment. Cancel anytime during 30 day open access period </h6>
+                <div class="py-3"><button class="orangeBtn text-white font-bold">30 Day Free </button></div>
             </div>
 
             <div class="dashedBox flex flex-col p-6 border-1 rounded-lg max-w-xs text-center items-center relative">
@@ -448,7 +448,7 @@
                 <h6 class="px-8 py-4">And receive LUDICROUS LEADERSHIP as an additional gift</h6>
                 <h3 class="px-2 py-4 font-bold"><span class="text-orange pr-2">$495</span><span>Today</span></h3>
                 <h6 class="px-8 py-2">Then 3 additional monthly installments of $495 </h6>
-                <div class="py-6"><button class="orangeBtn text-white font-bold">Start Now </button></div>
+                <div class="py-3"><button class="orangeBtn text-white font-bold">Start Now </button></div>
             </div>
 
             <div class="solidBox flex flex-col p-6 border-1 rounded-lg max-w-xs text-center items-center">
@@ -456,16 +456,29 @@
                 <h6 class="px-8 py-4">And receive LUDICROUS LEADERSHIP as an additional gift</h6>
                 <h3 class="px-2 py-4 font-bold"><span class="text-orange pr-2">$495</span><span>Today</span></h3>
                 <h6 class="px-8 py-2">Then 3 additional monthly installments of $495 </h6>
-                <div class="py-6"><button class="orangeBtn text-white font-bold">Get Access </button></div>
+                <div class="py-3"><button class="orangeBtn text-white font-bold">Get Access </button></div>
             </div>
         </div>
     </div>
-    <div class="flex flex-col bg-white text-black">
-        <div class="box">asdf</div>
+    <div class="h-100 flex flex-col px-16 p-4 pt-16 pb-32 space-x-8 space-y-16 bg-white text-black items-center">
+        <h2 class="px-2 py-2 font-bold">Payment</h2>
+
+        <div class="box flex flex-col max-w-auto p-4">
+            <h3 class="px-2 py-2 font-bold text-left">Payment Details</h3>
+            <form>
+                <div class="flex space-x-2">
+                    <input type="text" class="w-48 p-4 box" placeholder="card">
+                    <input type="text" class="w-48 p-4 box" placeholder="card">
+                    <input type="text" class="w-48 p-4 box" placeholder="card">
+                    <input type="text" class="w-4 p-4 box" placeholder="card">
+                </div>
+            </form>
+
+        </div>
 
     </div>
 </body>
 
-<script src="script.js"></script>
+<script src=" script.js"></script>
 
 </html>
