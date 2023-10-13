@@ -463,15 +463,60 @@
     <div class="h-100 flex flex-col px-16 p-4 pt-16 pb-32 space-x-8 space-y-16 bg-white text-black items-center">
         <h2 class="px-2 py-2 font-bold">Payment</h2>
 
-        <div class="box flex flex-col max-w-auto p-4">
+        <div class="box flex flex-col max-w-auto p-4 space-y-4 p-8">
             <h3 class="px-2 py-2 font-bold text-left">Payment Details</h3>
-            <form>
+            <form class="flex flex-col space-y-4">
                 <div class="flex space-x-2">
-                    <input type="text" class="w-48 p-4 box" placeholder="card">
-                    <input type="text" class="w-48 p-4 box" placeholder="card">
-                    <input type="text" class="w-48 p-4 box" placeholder="card">
-                    <input type="text" class="w-4 p-4 box" placeholder="card">
+                    <div class="relative">
+                        <input type="text" class="w-48 pt-10 px-2 box " placeholder="card">
+                        <img class="h-10 absolute card" src="img/card.png">
+                    </div>
+                    <div class="relative">
+                        <input type="text" class="w-48 pt-10 px-2 box" placeholder="iDEAL">
+                        <img class="h-8 absolute card" src="img/ideal.png">
+                    </div>
+                    <div class="relative">
+                        <input type="text" class="w-48 pt-10 px-2 box " placeholder="KLARNA ">
+                        <img class="h-8 absolute card" src="img/klarna.png">
+                    </div>
+
+                    <div class="relative">
+                        <input type="text" class="w-4 pt-10 px-2 box">
+                        <div class="flex flex-col space-y-2 justify-between absolute card">
+                            <img class="h-2 mt-2" src="img/ellipsis.svg">
+                            <img class="h-2" src="img/ellipsis.svg">
+                            <img class="h-2" src="img/ellipsis.svg">
+                        </div>
+                    </div>
+
                 </div>
+
+
+                <div class="flex flex-col space-y-2 relative w-full">
+                    <label>Card Number</label>
+                    <input type="text" class="w-full py-5 px-2 box" placeholder="4512 4584 1423 4785 ">
+                    <div class="flex space-x-2 absolute creditCard">
+                        <img class="h-8  card" src="img/visa.png">
+                        <img class="h-8  card" src="img/Mastercard.png">
+                        <img class="h-8  card" src="img/AMEX.png">
+                        <img class="h-8  card" src="img/discover.svg">
+                    </div>
+                </div>
+                <div class="flex space-x-2">
+                    <div class="flex flex-col space-y-2 w-1/2">
+                        <label>Expiration Date</label>
+                        <input type="text" class="w-full py-5 px-2 box " placeholder="MM/YY">
+                    </div>
+                    <div class="flex flex-col space-y-2 relative w-1/2">
+                        <label>Security Code</label>
+                        <input type="text" class="w-full py-5 px-2 box" placeholder="CVV">
+                        <img class="h-10 absolute creditCard" src="img/card.png">
+                    </div>
+                </div>
+                <div class="flex py-4">
+                    <button class="orangeBtn text-white font-bold">PAY NOW </button>
+                </div>
+
             </form>
 
         </div>

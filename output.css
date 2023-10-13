@@ -20613,8 +20613,20 @@ h6 {
   right: 0;
 }
 
-input.inputField {
+.card {
+  top: 5px;
+  left: 5px;
+}
+
+.creditCard {
+  top: 40%;
+  right: 5px;
+}
+
+input.inputField,
+input {
   border-bottom: 1px solid black;
+  border-radius: 0.5rem;
 }
 
 @media (min-width: 640px) {
