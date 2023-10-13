@@ -728,7 +728,7 @@
     </div>
     <div class="h-100 flex flex-col p-4 px-16 pt-16 pb-16 space-x-8 space-y-16 items-center">
         <div class="text-center p-16">
-            <h2><span>Join an Elite </span> <span class="text-orange">Community</span><span>of Winners</span></h2>
+            <h2><span>Your Student's Parents Will</span> <span class="text-orange">Thank You!</span>
         </div>
         <div class="flex justify-center items-center space-x-20">
             <div class="w-1/2 flex flex-col z-20 relative">
@@ -756,6 +756,95 @@
 
         </div>
     </div>
+    <div class="h-100 flex flex-col p-4 px-16 pt-16 pb-16 space-x-8 space-y-16 items-center bg-white text-black">
+        <div class="text-center p-32">
+            <h2><span>30 Day Access To The OFA Challenge </span> <span class="text-orange">Facebook Group</span></h2>
+        </div>
+        <div class="flex justify-center items-center space-x-20">
+            <div class="w-1/2 flex flex-col z-20 relative">
+                <img class="mr-16 w-full rounded-sm " src="img/video3.png">
+                <img class="mr-16 h-24 rounded-sm absolute playButton" src="img/playRed.svg">
+            </div>
+            <div class="w-1/2 space-y-8 break-auto">
+                <div class="flex space-x-2">
+                    <div class="content flex flex-col space-y-2 items-baseline">
+                        <!-- <img class=" h-10 rounded-sm " src="img/quote.svg"> -->
+                        <span class="text-20">Tincidunt lectus amet scelerisque sollicitudin duis. Metus vel semper
+                            risus volutpat
+                            dolor turpis. Amet tortor arcu duis nec scelerisque enim vitae vitae. Porttitor risus enim
+                            malesuada.</span>
+                        <div class="flex">
+                            <img class=" h-6 rounded-sm " src="img/diamond.svg">
+
+                            <span class="text-20">A pellentesque ipsum mi a volutpat felis. Libero ultricies fringilla
+                                ut leo risus non
+                                morbi. Ridiculus pretium magna.</span>
+                        </div>
+                        <div class="flex">
+                            <img class=" h-6 rounded-sm " src="img/diamond.svg">
+
+                            <span class="text-20">A pellentesque ipsum mi a volutpat felis. Libero ultricies fringilla
+                                ut leo risus non
+                                morbi. Ridiculus pretium magna.</span>
+                        </div>
+                        <span class="text-20">Tincidunt lectus amet scelerisque sollicitudin duis. Metus vel semper
+                            risus volutpat
+                            dolor turpis. Amet tortor arcu duis nec scelerisque enim vitae vitae. Porttitor risus enim
+                            malesuada.</span>
+                        <!---->
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+        <!---->
+        <div class="flex flex-col justify-center items-center p-4 h-auto w-full">
+            <div class="text-center p-16">
+                <h2><span>Frequently Asked</span> <span class="text-orange">Questions</span>
+            </div>
+            <div class="bg-white w-3/4">
+                <details class="box m-2 p-2">
+                    <summary class="question py-3 px-4 cursor-pointer select-none w-full outline-none">Integer interdum
+                        orci nulla at varius</summary>
+                    <p class="pt-1 pb-3 px-4">Sagittis cursus tempus arcu interdum lacinia enim elit adipiscing.
+                        Praesent mattis aliquam id leo id. Eu tempus tincidunt et iaculis. Odio morbi quis congue..</p>
+                </details>
+
+                <details class="box m-2 p-2">
+                    <summary class="question py-3 px-4 cursor-pointer select-none w-full outline-none">Integer interdum
+                        orci nulla at varius</summary>
+                    <p class="pt-1 pb-3 px-4">Sagittis cursus tempus arcu interdum lacinia enim elit adipiscing.
+                        Praesent mattis aliquam id leo id. Eu tempus tincidunt et iaculis. Odio morbi quis congue..</p>
+                </details>
+
+                <details class="box m-2 p-2">
+                    <summary class="question py-3 px-4 cursor-pointer select-none w-full outline-none">Integer interdum
+                        orci nulla at varius</summary>
+                    <p class="pt-1 pb-3 px-4">Sagittis cursus tempus arcu interdum lacinia enim elit adipiscing.
+                        Praesent mattis aliquam id leo id. Eu tempus tincidunt et iaculis. Odio morbi quis congue..</p>
+                </details>
+
+                <details class="box m-2 p-2">
+                    <summary class="question py-3 px-4 cursor-pointer select-none w-full outline-none">Integer interdum
+                        orci nulla at varius</summary>
+                    <p class="pt-1 pb-3 px-4">Sagittis cursus tempus arcu interdum lacinia enim elit adipiscing.
+                        Praesent mattis aliquam id leo id. Eu tempus tincidunt et iaculis. Odio morbi quis congue..</p>
+                </details>
+
+                <details class="box m-2 p-2">
+                    <summary class="question py-3 px-4 cursor-pointer select-none w-full outline-none">Integer interdum
+                        orci nulla at varius</summary>
+                    <p class="pt-1 pb-3 px-4">Sagittis cursus tempus arcu interdum lacinia enim elit adipiscing.
+                        Praesent mattis aliquam id leo id. Eu tempus tincidunt et iaculis. Odio morbi quis congue..</p>
+                </details>
+
+            </div>
+        </div>
+    </div>
+
+
+
 </body>
 
 <script src=" script.js"></script>

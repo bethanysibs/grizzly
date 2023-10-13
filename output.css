@@ -20426,6 +20426,7 @@ video {
 
 body {
   font-family: "Inter", sans-serif;
+  line-height: 24px;
 }
 
 .bg-grizzly-red {
@@ -20554,12 +20555,14 @@ h6 {
   fill: #fff;
   border: 0.496px solid #e8ecef;
   box-shadow: 0px 0px 1px rgba(231, 236, 239, 0.5);
+  border-radius: 0.5rem;
 }
 
 .dashedBox {
   fill: #fff;
   border: 0.496px solid #e8ecef;
   box-shadow: 0px 0px 1px rgba(231, 236, 239, 0.5);
+  border-radius: 0.5rem;
   border-style: dashed;
   border-color: #ee3524;
 }
@@ -20568,6 +20571,7 @@ h6 {
   fill: #fff;
   border: 0.496px solid #e8ecef;
   box-shadow: 0px 0px 1px rgba(231, 236, 239, 0.5);
+  border-radius: 0.5rem;
   border-style: solid;
   border-color: #ee3524;
   margin-bottom: -15rem;
