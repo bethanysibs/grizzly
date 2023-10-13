@@ -20487,9 +20487,10 @@ h6 {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  /* H 5 Regular */
-  font-family: Inter;
-  font-size: 20px;
+}
+
+.text-16 {
+  font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -20621,6 +20622,13 @@ h6 {
 .creditCard {
   top: 40%;
   right: 5px;
+}
+
+.playButton {
+  top: 40%;
+  right: 50%;
+  left: 40%;
+  bottom: 50%;
 }
 
 input.inputField,

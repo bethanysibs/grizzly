@@ -522,6 +522,113 @@
         </div>
 
     </div>
+    <!---->
+
+    <div class="h-100 flex flex-col p-4 px-16 space-x-8 space-y-16 items-center">
+
+
+        <div class="text-center p-16">
+            <h2><span>Join an Elite </span> <span class="text-orange">Community</span><span>of Winners</span></h2>
+        </div>
+        <div class="flex justify-center items-center space-x-20">
+            <div class="w-1/2 flex flex-col z-20 relative">
+                <img class="mr-16 w-full rounded-sm " src="img/face1.png">
+                <img class="mr-16 h-24 rounded-sm absolute playButton" src="img/playOrange.png">
+            </div>
+            <div class="w-1/2 space-y-8 break-auto">
+                <div class="flex space-x-2">
+                    <div class="avatar w-48">
+                        <img class="h-14" src="img/sam.png">
+                    </div>
+                    <div class="content flex flex-col space-y-2">
+                        <h5>Sam Purcell</h5>
+                        <span class="small opacity-50 mb-4">Grade 11 Student</span>
+                        <div class="text-center flex space-x-2">
+                            <img class="h-4" src="img/starSmall.png">
+                            <img class="h-4" src="img/starSmall.png">
+                            <img class="h-4" src="img/starSmall.png">
+                            <img class="h-4" src="img/starSmall.png">
+                            <img class="h-4" src="img/starSmallHalf.png">
+                        </div>
+                        <small>"Grizzly Elite made me realize that I had this huge chasm of untapped potential. It was
+                            not just a minor improvement but a complete change of how I thought and performed. Grizzly
+                            Elite taught me how to differentiate what actually gives me the best results to succeed in
+                            my future.
+                            As an end result, I overachieved 5,000 times my initial goal with Grizzly Elite."</small>
+
+
+
+                        <!---->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="flex justify-center items-center space-x-20">
+            <div class="w-1/2 space-y-8 break-auto">
+                <div class="flex space-x-2">
+                    <div class="avatar w-48">
+                        <img class="h-14" src="img/nash.png">
+                    </div>
+                    <div class="content flex flex-col space-y-2">
+                        <h5>Nahshon Weissberg</h5>
+                        <span class="small opacity-50 mb-4">Grade 10 Student</span>
+                        <div class="text-center flex space-x-2">
+                            <img class="h-4" src="img/starSmall.png">
+                            <img class="h-4" src="img/starSmall.png">
+                            <img class="h-4" src="img/starSmall.png">
+                            <img class="h-4" src="img/starSmall.png">
+                            <img class="h-4" src="img/starSmallHalf.png">
+                        </div>
+                        <small>"Participating in Joaquin Revello's Grizzly Elite program is the best decision I have
+                            ever made.
+                            In just the first couple of sessions with Joaquin, I've been able to increase my
+                            productivity 10 fold. I know what I'm getting is legit, and everything he gives is value. In
+                            fact, i'd go as far as to say that every session with him is worth more than the price of
+                            the entire course itself! The way I work now, school has basically become a side
+                            project.""</small>
+
+
+
+                        <!---->
+                    </div>
+                </div>
+            </div>
+            <div class="w-1/2 flex flex-col z-20 relative">
+                <img class="mr-16 w-full rounded-sm " src="img/nashVid.png">
+                <img class="mr-16 h-24 rounded-sm absolute playButton" src="img/playRed.svg">
+            </div>
+        </div>
+
+        <div class="flex justify-center items-center space-x-20">
+            <div class="w-1/2 space-y-8 break-auto px-8">
+                <div class="flex space-x-2">
+                    <div class="avatar w-48">
+                        <img class="h-14" src="img/face2.png">
+                    </div>
+                    <div class="content flex flex-col space-y-2">
+                        <span class="text-16 font-bold">"Joaquin is an inspiration and has helped me with my studies. I
+                            feel more
+                            productive
+                            overall."</span>
+                        <span class="small opacity-50 mb-4">Anderson Putra Irawan - Grade 11 Student</span>
+                    </div>
+                </div>
+            </div>
+            <div class="w-1/2 space-y-8 break-auto px-8">
+                <div class="flex space-x-2">
+                    <div class="avatar w-48">
+                        <img class="h-14" src="img/face3.png">
+                    </div>
+                    <div class="content flex flex-col space-y-2">
+                        <span class="text-16 font-bold">"Grizzly Elite makes great content which helped me a lot in
+                            studying. Would absolutely recommend Joaquin as he gives great useful advice."/span>
+                            <span class="small opacity-50 mb-4">Shunsuke Tsutsui - Grade 10 Student</span>
+                    </div>
+                </div>
+            </div>
+        </div>
 </body>
 
 <script src=" script.js"></script>
